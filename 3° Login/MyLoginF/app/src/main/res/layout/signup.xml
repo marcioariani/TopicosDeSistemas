@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/azul">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Nome"
+        android:id="@+id/textView4"
+        android:textColor="#010101" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:id="@+id/TFname"
+        android:hint="@string/Digite_o_seu_nome"
+        android:background="#0e8501"
+        android:textColorHint="#770100" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Email"
+        android:id="@+id/textView5"
+        android:textColor="#010101" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:id="@+id/TFemail"
+        android:hint="@string/Digite_o_seu_email"
+        android:background="#0e8501"
+        android:textColorHint="#770100" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Username"
+        android:id="@+id/textView6"
+        android:textColor="#010101" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:id="@+id/TFuname"
+        android:hint="@string/Digite_um_username"
+        android:background="#0e8501"
+        android:textColorHint="#770100" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Senha1"
+        android:id="@+id/textView7"
+        android:textColor="#010101" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/TFpass1"
+        android:hint="@string/Digite_uma_senha"
+        android:background="#0e8501"
+        android:textColorHint="#770100" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/Confirme_a_senha"
+        android:id="@+id/textView8"
+        android:textColor="#010101" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/TFpass2"
+        android:hint="@string/Confirme_sua_senha1"
+        android:background="#0e8501"
+        android:textColorHint="#770100" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:text="@string/Registrara"
+        android:id="@+id/Bsignupbutton"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onSignUpClick"
+        android:background="#000a92"
+        android:textColor="#ffffff" />
+</LinearLayout>

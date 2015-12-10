@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyLoginF</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="emptyString" />
+    <string name="logar">Logar</string>
+    <string name="Digite_o_Login">Digite o Login</string>
+    <string name="Login">Login</string>
+    <string name="Senha">Senha</string>
+    <string name="Digite_a_senha">Digite a senha</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Sair">Sair</string>
+    <string name="Nome">Nome</string>
+    <string name="Digite_o_seu_nome">Digite o seu nome</string>
+    <string name="Email">Email</string>
+    <string name="Digite_o_seu_email">Digite seu email</string>
+    <string name="Username">Username</string>
+    <string name="Digite_um_username">Digite um Username</string>
+    <string name="Senha1">Senha</string>
+    <string name="Digite_uma_senha">Digite uma senha</string>
+    <string name="Confirme_a_senha">Confirme a senha</string>
+    <string name="Confirme_sua_senha1">Confirme sua senha</string>
+    <string name="Registrara">Registrar</string>
+    <string name="Dados_da_conta">Dados da Conta:</string>
+    <string name="Nome_cadastrado">Nome Cadastrado:</string>
+    <string name="Email_cadastrado">Email cadastrado:</string>
+    <string name="Username_criado">Usename criado:</string>
+    <string name="Sairee">Sair</string>
+
+</resources>

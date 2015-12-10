@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "nombre_apl"> MyLoginF </string>
+    <string name = "hello_world"> ¡Hola, mundo! </string>
+    <string name = "action_settings"> Configuración </string>
+    <string name = "logar"> Logar </string>
+    <string name = "Digite_o_Login"> Digite o Login </string>
+    <string name = "Login"> Conexión </string>
+    <string name = "Senha"> Senha </string>
+    <string name = "Digite_a_senha"> Digite un senha </string>
+    <string name = "Registrar"> Registro </string>
+    <string name = "Sair"> Sair </string>
+    <string name = "Nome"> Nombre </string>
+    <string name = "Digite_o_seu_nome"> Digite o seu nome </string>
+    <string name = "Email"> Correo </string>
+    <string name = "Digite_o_seu_email"> Digite seu email </string>
+    <string name = "Username"> Nombre de usuario </string>
+    <string name = "Digite_um_username"> Digite um nombre de usuario </string>
+    <string name = "Senha1"> Senha </string>
+    <string name = "Digite_uma_senha"> Digite uma senha </string>
+    <string name = "Confirme_a_senha"> confirmé una senha </string>
+    <string name = "Confirme_sua_senha1"> senha sua confirmé </string>
+    <string name = "Registrara"> Registro </string>
+    <string name = "Dados_da_conta"> Dados da Conta: </string>
+    <string name = "Nome_cadastrado"> Nome Cadastrado: </string>
+    <string name = "Email_cadastrado"> Correo cadastrado: </string>
+    <string name = "Username_criado"> criado usename: </string>
+    <string name = "Sairee"> Sair </string>
+</resources>

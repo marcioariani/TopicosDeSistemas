@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Menu AndroiD</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Adicionar item</string>
+    <string name="txt_nome">Item</string>
+    <string name="txt_telefone">Valor</string>
+    <string name="txt_datasespe">Data inclusão/alteração</string>
+    <string name="txt_grupos" />
+    <string name="txt_grupo">Descrição do item</string>
+
+    <string name="lbl_salvar">Salvar/Alterar</string>
+    <string name="lbl_alterar">Alterar</string>
+    <string name="lbl_excluir">Excluir</string>
+    <string name="thing_txt">Cardápio</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Menu</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_main2">Ajouter un élément</string>
+    <string name="txt_nome">élément</string>
+    <string name="txt_telefone">Valuer</string>
+    <string name="txt_datasespe">date de lajout / modification</string>
+    <string name="txt_grupos" />
+    <string name="txt_grupo">Élément description</string>
+    <string name="lbl_salvar">Enregistrer/Modifier</string>
+    <string name="lbl_alterar">Modifier</string>
+    <string name="lbl_excluir">Supprimer</string>
+
+</resources>
